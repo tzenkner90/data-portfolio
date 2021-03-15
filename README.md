@@ -8,3 +8,7 @@ Interesting Projects: Should have a data pipeline/engineering, data insight or m
 - Recommendation System with Pipeline
 - Building a Data Warehouse: Something to showcase my SQL
 - Bonus for Connection to an API, Streaming Data, Scraping Data, Serving Output using Flask etc.
+
+Interesting Implementations with Tensorflow
+
+- https://github.com/aymericdamien/TensorFlow-Examples
